@@ -1,7 +1,0 @@
-AsteroidClassification_PSO-SVR.ipynb filter=lfs diff=lfs merge=lfs -text
-Classification.csv filter=lfs diff=lfs merge=lfs -text
-ObjectInfo.csv filter=lfs diff=lfs merge=lfs -text
-OrbitParameters.csv filter=lfs diff=lfs merge=lfs -text
-PhysicalCharacteristics.csv filter=lfs diff=lfs merge=lfs -text
-Psycopg2_import.ipynb filter=lfs diff=lfs merge=lfs -text
-dataset.csv filter=lfs diff=lfs merge=lfs -text
