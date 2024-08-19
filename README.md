@@ -4,21 +4,21 @@
 
 This project focuses on classifying asteroids using PSO-SVR machine learning technique.
 
-Dataset: https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset/data
+Dataset: https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset/data  
 Reference: https://www.kaggle.com/code/marissafernandes/asteroid-prediction
 
 ## File Structure
 
-The project is organized into the following files and directories:
+The project is organized into the following files and directories:  
 .
-├── AsteroidClassification_PSO-SVR.ipynb
-├── dataset.csv
-├── Psycopg2_import.ipynb
-├── Classification.csv
-├── ObjectInfo.csv
-├── OrbitParameters.csv
-├── PhysicalCharacteristics.csv
-└── README.md
+├── AsteroidClassification_PSO-SVR.ipynb  
+├── dataset.csv  
+├── Psycopg2_import.ipynb  
+├── Classification.csv  
+├── ObjectInfo.csv  
+├── OrbitParameters.csv  
+├── PhysicalCharacteristics.csv  
+└── README.md  
 
 ### Files and Directories
 
@@ -28,11 +28,11 @@ The project is organized into the following files and directories:
 - **`dataset.csv`**: 
   - The primary dataset used for training and testing machine learning models.
 
+- **`Psycopg2_import.ipynb`**: 
 - **`Classification.csv`**: 
 - **`ObjectInfo.csv`**: 
 - **`OrbitParameters.csv`**: 
 - **`PhysicalCharacteristics.csv`**: 
-- **`Psycopg2_import.ipynb`**: 
   - Creating and managing the database. It includes scripts for importing data into a PostgreSQL database using Psycopg2.
 
 ## Dataset Details
@@ -83,5 +83,5 @@ The project is organized into the following files and directories:
 ## Contact
 For any questions or inquiries, please contact:
 
-Maintainer: YIDI ZHAO
+Maintainer: YIDI ZHAO  
 Email: yidi.zhao@ue-germany.de
