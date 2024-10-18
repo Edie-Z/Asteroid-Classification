@@ -13,7 +13,6 @@ The project is organized into the following files and directories:
 .  
 ├── AsteroidClassification_PSO-SVR.ipynb  
 ├── dataset.csv  
-├── Psycopg2_import.ipynb  
 ├── Classification.csv  
 ├── ObjectInfo.csv  
 ├── OrbitParameters.csv  
@@ -27,14 +26,7 @@ The project is organized into the following files and directories:
 
 - **`dataset.csv`**: 
   - The primary dataset used for training and testing machine learning models.
-
-- **`Psycopg2_import.ipynb`**: 
-- **`Classification.csv`**
-- **`ObjectInfo.csv`**
-- **`OrbitParameters.csv`**
-- **`PhysicalCharacteristics.csv`**
-  - Creating and managing the database. It includes scripts for importing data into a PostgreSQL database using Psycopg2.
-
+ 
 ## Dataset Details
 
 ### Identification Parameters
