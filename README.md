@@ -7,16 +7,20 @@ This project uses **Particle Swarm Optimization (PSO)** to tune a **Support Vect
 - **Dataset**: [Asteroid Dataset on Kaggle](https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset/data)
 - **Reference Notebook**: [Asteroid Prediction by Marissa Fernandes](https://www.kaggle.com/code/marissafernandes/asteroid-prediction)
 
-## Project Structure
+## File Structure
 
+The project is organized into the following files and directories:
+
+```plaintext
 .
-├── AsteroidClassification_PSO-SVR.ipynb   # Main notebook with analysis and model  
-├── dataset.csv                            # Primary dataset  
-├── Classification.csv                     # Classification results  
-├── ObjectInfo.csv                         # Object-specific information  
-├── OrbitParameters.csv                    # Orbital parameters  
-├── PhysicalCharacteristics.csv            # Physical characteristics data  
+├── AsteroidClassification_PSO-SVC.ipynb   # Main notebook with analysis and model
+├── dataset.csv                            # Primary dataset
+├── Classification.csv                     # Classification results
+├── ObjectInfo.csv                         # Object-specific information
+├── OrbitParameters.csv                    # Orbital parameters
+├── PhysicalCharacteristics.csv            # Physical characteristics data
 └── README.md                              # Project documentation
+```
 
 ### Key Files
 
