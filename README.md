@@ -24,7 +24,7 @@ The project is organized into the following files and directories:
 
 ### Key Files
 
-- **`AsteroidClassification_PSO-SVR.ipynb`**: 
+- **`AsteroidClassification_PSO-SVC.ipynb`**: 
   - Notebook containing data exploration, cleaning, hypothesis, preprocessing, model training and evaluation.
 
 - **`dataset.csv`**: 
