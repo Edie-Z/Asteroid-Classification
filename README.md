@@ -10,13 +10,13 @@ This project uses **Particle Swarm Optimization (PSO)** to tune a **Support Vect
 ## Project Structure
 
 .
-├── AsteroidClassification_PSO-SVR.ipynb   # Main notebook with analysis and model
-├── dataset.csv                            # Primary dataset
-├── Classification.csv                     # Classification results
-├── ObjectInfo.csv                         # Object-specific information
-├── OrbitParameters.csv                    # Orbital parameters
-├── PhysicalCharacteristics.csv            # Physical characteristics data
-└── README.md                              # Project documentation 
+├── AsteroidClassification_PSO-SVR.ipynb   # Main notebook with analysis and model  
+├── dataset.csv                            # Primary dataset  
+├── Classification.csv                     # Classification results  
+├── ObjectInfo.csv                         # Object-specific information  
+├── OrbitParameters.csv                    # Orbital parameters  
+├── PhysicalCharacteristics.csv            # Physical characteristics data  
+└── README.md                              # Project documentation
 
 ### Key Files
 
